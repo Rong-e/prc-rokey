@@ -1,1 +1,2 @@
-print('냔ㅁ냠')
+print('siasia0')
+print('adga')
